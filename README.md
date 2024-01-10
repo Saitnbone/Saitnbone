@@ -1,10 +1,13 @@
-<span id="header" align="center">
+<h1>💻 Tech Stack:</h1>
+<div>
+  <span id="header" align="center">
   <img src="https://github.com/Saitnbone/Saitnbone/blob/main/Figma-Dark.svg" width="54" height="54"/>
 </span>
-Hi there 👋
-My name is Alexander or Alex, if convenient)
+</div>
 
-I'm a beginner web developer. I love everything related to the web.
+<h2>Hi there 👋</h2>
+<p>My name is Alexander or Alex, if convenient)</p>
+<p>I'm a beginner web developer. I love everything related to the web.</p>
 
 <!--
 **Saitnbone/Saitnbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

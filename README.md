@@ -3,6 +3,9 @@
   <span id="header" align="center">
   <img src="https://github.com/Saitnbone/Saitnbone/blob/main/Figma-Dark.svg" width="54" height="54"/>
 </span>
+  <span>
+    <img src="https://github.com/Saitnbone/Saitnbone/blob/main/TypeScript.svg" width="54" height="54">
+  </span>
 </div>
 
 <h2>Hi there 👋</h2>

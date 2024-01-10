@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Alexander or Alexey, if convenient)
+
+I'm a beginner web developer. I love everything related to the web.
+
 <!--
 **Saitnbone/Saitnbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 <span id="header" align="center">
-  <img src="https://github.com/Saitnbone/Saitnbone/blob/main/Figma-Dark.svg" width="100" height="100"/>
+  <img src="https://github.com/Saitnbone/Saitnbone/blob/main/Figma-Dark.svg" width="24" height="24"/>
 </span>
 Hi there 👋
 My name is Alexander or Alex, if convenient)

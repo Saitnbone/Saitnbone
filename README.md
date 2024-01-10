@@ -18,6 +18,9 @@
   <span>
     <img src="https://github.com/Saitnbone/Saitnbone/blob/main/MySQL-Dark.svg" width="54" height="54">
   </span>
+   <span>
+    <img src="https://github.com/Saitnbone/Saitnbone/blob/main/node.js_logo.png" width="54" height="54">
+  </span>
 </div>
 
 <h2>Hi there 👋</h2>

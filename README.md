@@ -21,6 +21,12 @@
    <span>
     <img src="https://github.com/Saitnbone/Saitnbone/blob/main/node-js.svg" width="54" height="54">
   </span>
+  <span>
+    <img src="https://github.com/Saitnbone/Saitnbone/blob/main/css-3.svg" width="54" height="54">
+  </span>
+  <span>
+    <img src="https://github.com/Saitnbone/Saitnbone/blob/main/html-5.svg" width="54" height="54">
+  </span>
 </div>
 
 <h2>Hi there 👋</h2>

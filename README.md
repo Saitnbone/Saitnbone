@@ -33,6 +33,10 @@
 <p>My name is Alexander or Alex, if convenient)</p>
 <p>I'm a beginner web developer. I love everything related to the web.</p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!--
 **Saitnbone/Saitnbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

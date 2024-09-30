@@ -30,7 +30,7 @@
 </div>
 
 <h2>Hi there 👋</h2>
-<p>My name is Alexander or Alex, if convenient)</p>
+<p>My name is Aleksandr</p>
 <p>I'm a beginner web developer. I love everything related to the web.</p>
 
 <div align="center">

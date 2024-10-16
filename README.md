@@ -31,7 +31,7 @@
 
 <h2>Hi there 👋</h2>
 <p>My name is Aleksandr</p>
-<p>I'm a beginner web developer. I love everything related to the web.</p>
+<p>I'm web developer. I love everything related to the web.</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

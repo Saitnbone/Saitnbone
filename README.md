@@ -29,7 +29,7 @@
   </span>
 </div>
 
-<h2>Hi there 👋</h2>
+<h2>Hello There</h2>
 <p>My name is Aleksandr</p>
 <p>I'm web developer. I love everything related to the web.</p>
 
